@@ -1,9 +1,9 @@
 # BIO 410 Final Project
 ## Background
-The data consist of 6 samples from the organism __________. This organism is a __________________ which ____________ [citation].
+The data consist of 6 samples from the organism ebola virus. This organism is a -----------which ____________ [citation].
 
 ## Purpose
-The purpose of this project was to create a phylogenetic tree from 6 samples of ____________ in order to determine the evolutionary relationships between the samples.
+The purpose of this project was to create a phylogenetic tree from 6 samples of ebola virus in order to determine the evolutionary relationships between the samples.
 
 
 ## Methods
