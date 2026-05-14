@@ -19,7 +19,7 @@ Include information about
 Here is the phylogenetic tree:
 (Insert the image, see the markdown cheat sheet for how to do that)
 
-![Example image of a phylogenetic tree](FiveIngroupSpecies.png)
+![Example image of a phylogenetic tree](Hamzatree.png)
 
 Explain
 - which samples are closely related to each other
