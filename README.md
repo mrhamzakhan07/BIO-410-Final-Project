@@ -1,6 +1,6 @@
 # BIO 410 Final Project
 ## Background
-The data consist of 6 samples from the organism ebola virus. This organism is a -----------which ____________ [citation].
+The data consist of 6 samples from the Ebola virus. This organism is a negative-sense single-stranded RNA virus in the Filoviridae family which causes Ebola virus disease [citation].
 
 ## Purpose
 The purpose of this project was to create a phylogenetic tree from 6 samples of ebola virus in order to determine the evolutionary relationships between the samples.
