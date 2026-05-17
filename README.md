@@ -21,7 +21,4 @@ Here is the phylogenetic tree:
 
 ![Example image of a phylogenetic tree](Hamzatree.jpg)
 
-Explain
-- which samples are closely related to each other
-- how many individuals did these 6 samples come from (probably) based on the phylogenetic tree
-
+Based on the phylogenetic tree, samples 2 and 5 are the most closely related, samples 4 and 6 are closely related, and samples 3 and 1 are closely related. Since the six samples group into three close pairs, the samples most likely came from three individuals total
