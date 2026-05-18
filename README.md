@@ -12,7 +12,6 @@ The six samples were analyzed using next-generation sequencing (NGS) reads. The 
 ## Results
 
 Here is the phylogenetic tree:
-(Insert the image, see the markdown cheat sheet for how to do that)
 
 ![Example image of a phylogenetic tree](Hamzatree.jpg)
 
