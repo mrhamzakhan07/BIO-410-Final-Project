@@ -7,12 +7,7 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
 
 
 ## Methods
-Include information about 
--  Sequencing reads (NGS next-generation sequencing)
--  Assembly using MEGAHIT (provide a link to MEGAHIT website)
--  Alignment using R package DECIPHER
--  Tree using ML method in R package DECIPHER
--  For each source of data, state which files/folders in the repository correspond to those data (so for example, the assmebled reads are in __________ [some folder] and the raw sequencing reads are in ________ [some folder (this is the one named with your name)]
+The six samples were analyzed using next-generation sequencing (NGS) reads. The raw sequencing reads are located in the hamza/ folder, which contains the paired .fq files for the six samples. These reads were assembled using MEGAHIT, an ultra-fast and memory-efficient NGS assembler. The assembled reads are located in the t1_out/, t2_out/, t3_out/, t4_out/, t5_out/, and t6_out/ folders, and each folder contains an assembled contig file called final.contigs.fa. The assembled contigs were then loaded into R using Biostrings and aligned with the AlignSeqs() function from the DECIPHER package. The alignment output was saved as Hamza's Final Project.html. The phylogenetic tree was then created in R using the maximum likelihood (ML) method with DECIPHER’s Treeline() function, which builds trees from aligned nucleotide or amino acid sequences.
 
 ## Results
 
